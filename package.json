@@ -1,0 +1,15 @@
+{
+  "name": "Complexity",
+  "version": "1.0.0",
+  "description": "Static and dynamic analysis using Esprima",
+  "main": "analysis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manoj Sharan",
+  "license": "ISC",
+  "dependencies": {
+    "esprima": "^1.2.5",
+    "fs": "0.0.1-security"
+  }
+}
