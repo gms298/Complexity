@@ -169,10 +169,8 @@ function complexity(filePath)
 			j = 0;
 			k = 0;
 			l = 0;
-
 			
 			// Metric calculations
-
 			traverseWithParents(node, function (child) 
 			{
 				// Calculating Simple cyclomatic complexity for this function.
