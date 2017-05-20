@@ -1,5 +1,5 @@
 {
-  "name": "Complexity",
+  "name": "complexity",
   "version": "1.0.0",
   "description": "Static and dynamic analysis using Esprima",
   "main": "analysis.js",
